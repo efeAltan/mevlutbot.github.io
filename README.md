@@ -16,3 +16,4 @@ In day 3, we started to download Google Assistant SDK to our Raspi, because we w
 
 ```
 
+For more information, visit our GitHub [page](https://github.com/alicagatay/Tetris.git).
