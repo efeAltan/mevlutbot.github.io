@@ -12,6 +12,8 @@ In day 2, as a group we decide on the tools we need on our robot.
 ## Day 3 
 In day 3, we started to download Google Assistant SDK to our Raspi, because we will use Raspi on our robot.
 
+[alt text](https://drive.google.com/open?id=1uSvvehmLsDWHgSl-OzCZTtuSJhxQsYME/to/img.png)
+
 ```markdown
 
 ```
